@@ -8,14 +8,14 @@
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/AWS-000?logo=amazon-web-services&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry)
+![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)
 ![Nest](https://img.shields.io/badge/Nest.js-000?logo=nestjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui)
