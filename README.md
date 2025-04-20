@@ -13,6 +13,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Helm](https://img.shields.io/badge/-Helm-000?&logo=Helm)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry)
