@@ -9,16 +9,16 @@
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Google Cloud]()
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Foundry]()
-![Nest]()
+![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry)
+![Nest](https://img.shields.io/badge/Nest.js-000?logo=nestjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![shadcn/ui]()
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui)
 
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
@@ -26,9 +26,9 @@
 ![Postgres]()
 ![Prisma]()
 
+![Git]()
 ![GitHub Actions]()
 ![GitLab CI]()
-
 
 ![IntelliJ IDEA]()
 ![Neovim]()
@@ -39,7 +39,7 @@
 - 🔭 I’m currently working on Riseon
 - 🌱 I’m currently learning Solana Development
 - 💬 Ask me about Trading Systems
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdulla.faraz@gmail.com), [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/abdulla_faraz), and [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/abdullafaraz) 
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdulla.faraz@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/abdulla_faraz) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/abdullafaraz) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/riseon_dev)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from The Maldives
 
