@@ -15,7 +15,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)
+![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry)
 ![Nest](https://img.shields.io/badge/Nest.js-000?logo=nestjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui)
@@ -26,13 +26,13 @@
 ![Postgres](https://img.shields.io/badge/Postgres-000?logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)
 
-![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-000?logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=github-actions)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-000?logo=gitlab)
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&logoColor=fff)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000?logo=vsc&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea)
+![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000?logo=vsc)
 
 
 - 👨‍💻 I work for [Coinrule](https://coinrule.com)
