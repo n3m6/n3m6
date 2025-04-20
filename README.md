@@ -16,7 +16,7 @@
 ![Helm](https://img.shields.io/badge/-Helm-000?&logo=Helm)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry)
+![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)
 ![Nest](https://img.shields.io/badge/Nest.js-000?logo=nestjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui)
