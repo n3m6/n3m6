@@ -22,17 +22,17 @@
 
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MySQL]()
-![Postgres]()
-![Prisma]()
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+![Postgres](https://img.shields.io/badge/Postgres-000?logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)
 
-![Git]()
-![GitHub Actions]()
-![GitLab CI]()
+![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=github-actions)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-000?logo=gitlab)
 
-![IntelliJ IDEA]()
-![Neovim]()
-![Visual Studio Code]()
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&logoColor=fff)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000?logo=vsc&logoColor=white)
 
 
 - 👨‍💻 I work for [Coinrule](https://coinrule.com)
