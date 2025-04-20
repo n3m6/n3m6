@@ -16,11 +16,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 
-- 👨‍💻 I work for ![Coinrule](https://coinrule.com)
+- 👨‍💻 I work for [Coinrule](https://coinrule.com)
 - 🔭 I’m currently working on Riseon
 - 🌱 I’m currently learning Solana Development
 - 💬 Ask me about Trading Systems
-- 📫 How to reach me: ![email](mailto:abdulla.faraz@gmail.com)
+- 📫 How to reach me: [via email](mailto:abdulla.faraz@gmail.com) [via discord]() [via telegram]() 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from The Maldives
 
