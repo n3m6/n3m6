@@ -19,8 +19,8 @@
 
 - 🔭 I’m currently working on Riseon
 - 🌱 I’m currently learning Solana Development
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Trading Systems
+- 📫 How to reach me: ![email](mailto:abdulla.faraz@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm from The Maldives
 
