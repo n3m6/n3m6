@@ -37,7 +37,7 @@
 
 
 - 👨‍💻 I work for [Coinrule](https://coinrule.com)
-- 🔭 I’m currently working on Riseon
+- 🔭 I’m currently working on [Riseon](https://github.com/riseon-dev/archon) for Solana Breakout Hackathon 2025
 - 🌱 I’m currently learning Solana Development
 - 💬 Ask me about Trading Systems
 - ⚡ Fun fact: I'm from The Maldives 🏄🏝️
