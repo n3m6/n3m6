@@ -40,8 +40,6 @@
 - 🔭 I’m currently working on Riseon
 - 🌱 I’m currently learning Solana Development
 - 💬 Ask me about Trading Systems
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdulla.faraz@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/abdulla_faraz) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/abdullafaraz) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/riseon_dev)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from The Maldives
 
 ### Code contributions
