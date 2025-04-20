@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on Riseon
 - 🌱 I’m currently learning Solana Development
 - 💬 Ask me about Trading Systems
-- 📫 How to reach me: [via email](mailto:abdulla.faraz@gmail.com) [via discord]() [via telegram]() 
+- 📫 How to reach me: [via email](mailto:abdulla.faraz@gmail.com), [via discord](https://discordapp.com/users/abdulla_faraz), and [via telegram](https://t.me/abdullafaraz) 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from The Maldives
 
