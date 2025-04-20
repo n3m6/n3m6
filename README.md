@@ -23,5 +23,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from The Maldives
 
-### Contributions
+### Code contributions
 Most of my code contributions can be [viewed on Gitlab](https://gitlab.com/n3m6)
