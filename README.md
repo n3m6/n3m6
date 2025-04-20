@@ -5,7 +5,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
-
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -24,3 +23,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from The Maldives
 
+### Contributions
+Most of my code contributions can be [viewed on Gitlab](https://gitlab.com/n3m6)
