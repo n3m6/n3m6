@@ -40,7 +40,7 @@
 - 🔭 I’m currently working on Riseon
 - 🌱 I’m currently learning Solana Development
 - 💬 Ask me about Trading Systems
-- ⚡ Fun fact: I'm from The Maldives
+- ⚡ Fun fact: I'm from The Maldives 🏄🏝️
 
 ### Code contributions
 Most of my code contributions can be [viewed on Gitlab](https://gitlab.com/n3m6)
