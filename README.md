@@ -16,7 +16,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 
-
+- 👨‍💻 I work for ![Coinrule](https://coinrule.com)
 - 🔭 I’m currently working on Riseon
 - 🌱 I’m currently learning Solana Development
 - 💬 Ask me about Trading Systems
